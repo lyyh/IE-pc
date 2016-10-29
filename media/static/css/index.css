@@ -1,0 +1,11 @@
+.g-wrap{
+	height: 100%;
+	// background-color: #e8e8e8;
+	overflow: hidden;
+}
+.g-main{
+	width: 100px;
+	height: 100px;
+	background-color: #F17524;
+	margin: 100px auto 0;
+}
